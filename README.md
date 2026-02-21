@@ -53,7 +53,6 @@ sudo ./setup.sh
   <p><i>"Code less. Automate more. ✨"</i></p>
 </div>
 
----
 ### ⚙️ Built With
 * [**Bash**](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - The industry-standard command language.
 * **Git** - Version control automation.
