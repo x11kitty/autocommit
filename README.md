@@ -50,6 +50,6 @@ sudo ./setup.sh
 
 <div align="center">
   <img src="assets/2.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
-  <p><i>"System optimized. Stay comfy and keep coding."</i></p>
+  <p><i>"Rooted in shell, living in flow. Script more, work less."</i></p>
 </div>
 
