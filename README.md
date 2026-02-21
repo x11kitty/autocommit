@@ -58,14 +58,10 @@ sudo ./setup.sh
 * [**Bash**](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - The industry-standard command language.
 * **Git** - Version control automation.
 
-<p align="center">
-  Made by <a href="https://github.com/x11kitty">x11kitty</a> • Give a ⭐ if you like it!
-</p>
-
 ## 📜 License
 This project is [GPL-3.0](https://github.com/x11kitty/autocommit/blob/main/LICENSE) licensed.
 
 ---
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/x11kitty">x11kitty</a>
+  Made with ❤️ by <a href="https://github.com/x11kitty">x11kitty • Give a ⭐ if you like it!</a>
 </p>
