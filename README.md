@@ -53,3 +53,13 @@ sudo ./setup.sh
   <p><i>"Code less. Automate more. ✨"</i></p>
 </div>
 
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/x11kitty/autocommit/issues).
+
+## 📜 License
+This project is [GPL-3.0](https://github.com/x11kitty/autocommit/blob/main/LICENSE) licensed.
+
+---
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/x11kitty">x11kitty</a>
+</p>
