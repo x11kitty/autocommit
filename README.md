@@ -1,37 +1,30 @@
 # 🚀 GitHub Auto-Commit Bot
-A simple bash-based utility to automate GitHub commits and keep your contribution graph active. This tool handles the setup, authentication, and bulk-commit process for you.
+> A sleek bash-based utility to automate GitHub commits and maintain an active contribution graph.
 
-# 📋 Prerequisites
-Before starting, you need a GitHub Personal Access Token (PAT). This acts as your password for the script to push changes.
+---
 
-1. Go to your GitHub Settings (click your profile icon in the top right).
+## 🎨 Overview
+`GitHub Auto-Commit Bot` simplifies the repository maintenance process. It handles authentication, environment setup, and bulk-committing with a single command, ensuring your workflow stays fluid and your profile stays green.
 
-2. Scroll down on the left sidebar and click Developer settings.
+## 🔑 Prerequisites
+To authenticate the script, you must generate a **GitHub Personal Access Token (PAT)**.
 
-3. Select Tokens (classic) under "Personal access tokens".
+1.  **Navigate:** Settings ⮕ Developer settings ⮕ Personal access tokens ⮕ **Tokens (classic)**.
+2.  **Generate:** Click `Generate new token (classic)`.
+3.  **Scope:** Name it (e.g., `AutoCommit`) and select the **`repo`** checkbox.
+4.  **Security:** Copy the token immediately; it will not be shown again.
 
-4. Click Generate new token -> Generate new token (classic).
+---
 
-5. Note: Give it a name (e.g., "AutoCommit").
+## 🛠️ Installation
+Run the following commands in your terminal to clone the repository and set permissions:
 
-6. Important: Check the repo checkbox (this allows the script to access your repositories).
-
-7. Scroll to the bottom and click Generate token.
-
-8. Copy the token immediately! You won't be able to see it again.
-
-# 🛠️ Installation & Setup
-## Clone My Repository of Bashscript
 ```bash
-git clone https://github.com/x11kitty/autocommit
+# Clone the repository
+git clone [https://github.com/x11kitty/autocommit](https://github.com/x11kitty/autocommit)
+
+# Enter the directory
 cd autocommit
-```
-```bash
-sudo chmod +x setup.sh giti.sh
-```
-# ⚙️ Then Run the Setup File And Insert Details
 
-```bash
-sudo ./setup.sh
-```
-## You Setup is Complete Now You Can do autocommit any time by changing directory to You Cloned Repo Directory and by Run giti.sh Which Login and Autocommit Forcely
+# Grant execution permissions
+sudo chmod +x setup.sh giti.sh
