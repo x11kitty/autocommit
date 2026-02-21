@@ -47,3 +47,9 @@ sudo ./setup.sh
 ```bash
 sudo ./setup.sh
 ```
+
+<div align="center">
+  <img src="assets/2.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
+  <p><i>"System optimized. Stay comfy and keep coding."</i></p>
+</div>
+
