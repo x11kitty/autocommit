@@ -4,8 +4,9 @@
   <img src="https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge" alt="License">
 </p>
 
-<h1 align="center">🚀 GitHub Auto-Commit Bot</h1>
 ![GIF](assets/thumb.gif)
+
+<h1 align="center">🚀 GitHub Auto-Commit Bot</h1>
 <p align="center">
   <strong>A high-performance bash utility to automate GitHub commits and keep your contribution graph active.</strong>
 </p>
