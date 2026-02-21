@@ -65,5 +65,5 @@ This project is [GPL-3.0](https://github.com/x11kitty/autocommit/blob/main/LICEN
   Made with ❤️ by <a href="https://github.com/x11kitty">x11kitty
 </p>
 <p align="center">
-• Give a ⭐ if you like it!</a>
+<a>• Give a ⭐ if you like it!</a>
 </p>
