@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">🚀 GitHub Auto-Commit Bot</h1>
-![GIF](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![GIF](assets/thumb.gif)
 <p align="center">
   <strong>A high-performance bash utility to automate GitHub commits and keep your contribution graph active.</strong>
 </p>
