@@ -1,30 +1,41 @@
-# 🚀 GitHub Auto-Commit Bot
-> A sleek bash-based utility to automate GitHub commits and maintain an active contribution graph.
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Git-Automation-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+</p>
+
+<h1 align="center">🚀 GitHub Auto-Commit Bot</h1>
+
+<p align="center">
+  <strong>A minimalist utility to automate GitHub commits and maintain an active contribution graph.</strong>
+</p>
 
 ---
 
-## 🎨 Overview
-`GitHub Auto-Commit Bot` simplifies the repository maintenance process. It handles authentication, environment setup, and bulk-committing with a single command, ensuring your workflow stays fluid and your profile stays green.
+### 📝 Description
+This bash-based tool automates the tedious parts of repository maintenance. It handles setup, authentication via PAT, and bulk-commit processes to keep your workflow seamless and your profile active.
 
-## 🔑 Prerequisites
-To authenticate the script, you must generate a **GitHub Personal Access Token (PAT)**.
-
-1.  **Navigate:** Settings ⮕ Developer settings ⮕ Personal access tokens ⮕ **Tokens (classic)**.
-2.  **Generate:** Click `Generate new token (classic)`.
-3.  **Scope:** Name it (e.g., `AutoCommit`) and select the **`repo`** checkbox.
-4.  **Security:** Copy the token immediately; it will not be shown again.
+### 📋 Prerequisites
+To use this script, you need a **GitHub Personal Access Token (PAT)**:
+1. **Navigate:** `Settings` ⮕ `Developer settings` ⮕ `Tokens (classic)`.
+2. **Generate:** Create a new token (classic) and name it (e.g., "AutoCommit").
+3. **Permissions:** Ensure you check the **`repo`** checkbox.
+4. **Security:** Copy your token immediately; it will not be displayed again.
 
 ---
 
-## 🛠️ Installation
-Run the following commands in your terminal to clone the repository and set permissions:
+### 🛠️ Installation & Quickstart
 
 ```bash
-# Clone the repository
+# 1. Clone the repository
 git clone [https://github.com/x11kitty/autocommit](https://github.com/x11kitty/autocommit)
 
-# Enter the directory
+# 2. Enter the directory
 cd autocommit
 
-# Grant execution permissions
+# 3. Grant execution permissions
 sudo chmod +x setup.sh giti.sh
+
+# 4. Run the configuration setup
+sudo ./setup.sh
