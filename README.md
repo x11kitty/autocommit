@@ -32,7 +32,7 @@ Before starting, you need a **GitHub Personal Access Token (PAT)**. This acts as
 
 ```bash
 # Clone the repository
-git clone [https://github.com/x11kitty/autocommit](https://github.com/x11kitty/autocommit)
+git clone https://github.com/x11kitty/autocommit.git
 
 # Enter the directory
 cd autocommit
@@ -42,3 +42,8 @@ sudo chmod +x setup.sh giti.sh
 
 # Run the setup file and insert details
 sudo ./setup.sh
+```
+### Now Your Setup is Complete Now You can do Autocommit by Running giti.sh Anytime You Want Till The Date You Select to Remote Access of Your Repo
+```bash
+sudo ./setup.sh
+```
