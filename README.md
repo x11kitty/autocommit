@@ -18,12 +18,17 @@ This tool handles the setup, authentication, and bulk-commit process for you. It
 ### 📋 Prerequisites
 Before starting, you need a **GitHub Personal Access Token (PAT)**. This acts as your password for the script to push changes:
 
-1.  **Navigate:** Go to `Settings` ⮕ `Developer settings` ⮕ `Tokens (classic)`.
-2.  **Generate:** Click `Generate new token (classic)` and give it a name like "AutoCommit".
-3.  **Scope:** **Important:** Check the `repo` checkbox to allow script access.
-4.  **Secure:** Copy the token immediately! It will not be shown again.
+# 📋 Prerequisites
+Before starting, you need a GitHub Personal Access Token (PAT). This acts as your password for the script to push changes.
 
----
+1. Go to your GitHub Settings (click your profile icon in the top right).
+2. Scroll down on the left sidebar and click Developer settings.
+3. Select Tokens (classic) under "Personal access tokens".
+4. Click Generate new token -> Generate new token (classic).
+5. Note: Give it a name (e.g., "AutoCommit").
+6. Important: Check the repo checkbox (this allows the script to access your repositories).
+7. Scroll to the bottom and click Generate token.
+8. Copy the token immediately! You won't be able to see it again.
 
 ### 🛠️ Installation & Setup
 
