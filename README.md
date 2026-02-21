@@ -18,9 +18,6 @@ This tool handles the setup, authentication, and bulk-commit process for you. It
 ### 📋 Prerequisites
 Before starting, you need a **GitHub Personal Access Token (PAT)**. This acts as your password for the script to push changes:
 
-# 📋 Prerequisites
-Before starting, you need a GitHub Personal Access Token (PAT). This acts as your password for the script to push changes.
-
 1. Go to your GitHub Settings (click your profile icon in the top right).
 2. Scroll down on the left sidebar and click Developer settings.
 3. Select Tokens (classic) under "Personal access tokens".
