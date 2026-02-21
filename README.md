@@ -50,6 +50,6 @@ sudo ./setup.sh
 
 <div align="center">
   <img src="assets/2.png" width="300" style="border-radius: 15px;" alt="Random Anime Character" />
-  <p><i>"Rooted in shell, living in flow. Script more, work less."</i></p>
+  <p><i>"Code less. Automate more. ✨"</i></p>
 </div>
 
