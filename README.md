@@ -60,6 +60,10 @@ sudo ./setup.sh
 ## 📜 License
 This project is [GPL-3.0](https://github.com/x11kitty/autocommit/blob/main/LICENSE) licensed.
 
+
+> [!IMPORTANT]
+> This installation script is designed in BashScript. After the Setup You can autocommit directly with giti.sh anytime you want 
+
 ---
 <p align="center">
   Made with ❤️ by <a href="https://github.com/x11kitty">x11kitty
