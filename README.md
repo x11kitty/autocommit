@@ -50,7 +50,7 @@ sudo ./setup.sh
 ```
 
 <div align="center">
-  <img src="assets/2.png" width="400" style="border-radius: 0px;" alt="Random Anime Character" />
+  <img src="assets/wifu.png" width="400" style="border-radius: 0px;" alt="Random Anime Character" />
   <p><i>"Code less. Automate more. ✨"</i></p>
 </div>
 
