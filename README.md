@@ -46,7 +46,7 @@ sudo ./setup.sh
 ```
 ### Now Your Setup is Complete Now You can do Autocommit by Running giti.sh Anytime You Want Till The Date You Select to Remote Access of Your Repo
 ```bash
-bash ./setup.sh
+./giti.sh
 ```
 
 <div align="center">
